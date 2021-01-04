@@ -12,4 +12,4 @@ This is some text for the deployment
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. This is some extra purpose text.
